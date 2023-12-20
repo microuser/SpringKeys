@@ -1,5 +1,6 @@
 # SpringKeys
 Typing Tutor program using Hooks law for positioning chaos. 
+(DEVELOPMENT PROTOTYPE) 
 
 ## Features
 - Graphical Chaos Simulator.
