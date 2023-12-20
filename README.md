@@ -7,7 +7,7 @@ Typing Tutor program using Hooks law for positioning chaos.
 - - Spring like behavior. For example a line return to scroll the window would make the top row have ballistic launchs. A launch uses a long spring nomal distance.
     
 
- Welcome to a typing tutor experience unlike any other! This project aims to reinvent the terminal-based typing practice by introducing dynamic character movement, fluid animations, and engaging visuals.
+TODO A typing tutor experience unlike any other! This project aims to reinvent the terminal-based typing practice by introducing dynamic character movement, fluid animations, and engaging visuals.
 
 Key Features
 Characters with a Life of Their Own: Characters spring and drift within a network graph, creating a visually intriguing and interactive environment.
