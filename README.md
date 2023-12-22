@@ -17,3 +17,7 @@ Smooth Animations and Visual Feedback: Enjoy fluid transitions and subtle cues t
 Typing Test Essentials: Track your WPM (words per minute), accuracy, and other metrics to track your progress.
 Rust at the Core: Built with Rust for performance, safety, and cross-platform compatibility.
 Graphics Exploration: Experimenting with visual techniques (wasm3 or three.js) to push the boundaries of terminal-based interfaces.
+
+
+## Sub arcade game
+Consider a mine sweeper field, but not one mine per character, rater. One mine per word. Have a _minefield_ of worlds that are simlear and easy typos of eachother. Its a mine field, hard to type, muscle memory like tongue twisers help one articulate.
