@@ -32,7 +32,7 @@ A series of mini games to give typing entertainment
  - - Sr. Fuego Dedos, arriba andale fasting typing
  - - Dr. Clavia Enter, a holistic thought healer to help you write your story.
 
-### Speed classifications
+### Fun Terminology classifications
 
 - Kiimaster): "Key master" in Japanese, but in English emphasizes expertise and control.
 - Input Tornado - (Nyūryoku Tatsumaki): "Input tornado" in Japanese, but in English suggests whirlwind typing speed.
@@ -48,6 +48,12 @@ A series of mini games to give typing entertainment
 - Captain Typebeard: A classic pirate with a fearsome beard and even faster fingers.
 - Commodore Keysmash: A fiery, impulsive leader who leaves a trail of typos in his wake.
 - Admiral Autocorrect: A meticulous captain who ensures every message is ship-shape and error-free.
+- Salty Fingers Flynn: A seasoned veteran with nimble fingers and a knack for telling tall tales (and typing them even faster).
+ -Peg-Leg Punster: A resourceful pirate who weaves puns into every sentence, leaving their crew in stitches.
+ -Bosun Backspace: A meticulous editor who polishes every sentence until it shines like gold.
+ -Parrot Proofread: A loyal companion who squawks out typos and grammatical errors before they can set sail.
+ -The Kraken of Caps Lock: A legendary creature who haunts the high seas, typing in all caps wherever it goes.
+
 
 
 ### Sub arcade game
