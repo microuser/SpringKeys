@@ -1,5 +1,5 @@
 # SpringKeys
-Typing Tutor program using graphical maddness while proving hard minigames designed for speed running.
+Typing Tutor program using graphical maddness while proving hard minigames designed for speed running spring loaded keyboard-wielding buccaneers!
 (DEVELOPMENT PROTOTYPE) 
 
 ## Features
@@ -28,9 +28,27 @@ A series of mini games to give typing entertainment
  - RC chapionship, steer a  panning overhead RC race car using words.
  - Fortune Teller, Zoltar type advise. Given a Fallout 4 style dialog choice of character dialog, have the user type out the discussion as if they were a telegraph operator.
  - Helpfull personas, type while being mindfull in the style of the hero...
- - - Dr. Espacio Alivio, down t earth Space Relief and calming advise for a moment getaway
-   - 
+ - - Dr. Espacio Alivio, down to earth Space Relief and calming advise for a moment getaway
+ - - Sr. Fuego Dedos, arriba andale fasting typing
  - - Dr. Clavia Enter, a holistic thought healer to help you write your story.
+
+### Speed classifications
+
+- Kiimaster): "Key master" in Japanese, but in English emphasizes expertise and control.
+- Input Tornado - (Nyūryoku Tatsumaki): "Input tornado" in Japanese, but in English suggests whirlwind typing speed.
+- Uchimagami): "Typing demon" in Japanese, but in English sounds like "Ouch! A Magical Mine," offering a humorous juxtaposition.
+- Karauchi Boshi): "Air-typing star" in Japanese, but in English sounds like "Karaoke Boss," highlighting performance and rhythm.
+- Coach Bounce-Back (Image: A coach rebounding a ball high into the air, symbolizing resilience)
+- Coach Take-a-Breaker (Image: A coach holding up a "timeout" sign, promoting balance and rest)
+- Coach Break-the-Mold (Image: A coach smashing a mold with a hammer, encouraging players to embrace their individuality)
+- Sir Keysalot: (Image: A knight in shining armor, valiantly pounding out messages on a telegraph key) A play on Sir Lancelot but with "keys" replacing the lance, showcasing dexterity and precision.
+-  Baron Dashwood: (Image: A distinguished gentleman with a handlebar mustache, dashing off messages with rapid-fire keystrokes) A play on "dash," a telegraph punctuation mark, and "wood" for the telegraph poles, highlighting speed and connection.
+- The Dotty Duchess: (Image: A wise and witty matriarch with a monocle, deciphering messages with discerning dot-and-dash precision) Capitalizes on the "dot" and "dash" elements of Morse code in a regal context.
+- Captain Quirk: (Image: A seasoned sailor with a peg leg and a salty tongue, adept at unraveling coded messages) Adds a nautical theme and emphasizes linguistic agility.
+- Captain Typebeard: A classic pirate with a fearsome beard and even faster fingers.
+- Commodore Keysmash: A fiery, impulsive leader who leaves a trail of typos in his wake.
+- Admiral Autocorrect: A meticulous captain who ensures every message is ship-shape and error-free.
+
 
 ### Sub arcade game
 Consider a mine sweeper field, but not one mine per character, rather. One mine per word. Have a _minefield_ of words that are similar and easy typos of each other. Its a mine field, hard to type, muscle memory like tongue twisters help one articulate.
