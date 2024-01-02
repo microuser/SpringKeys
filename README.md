@@ -31,6 +31,7 @@ A series of mini games to give typing entertainment
  - - Dr. Espacio Alivio, down to earth Space Relief and calming advise for a moment getaway
  - - Sr. Fuego Dedos, arriba andale fasting typing
  - - Dr. Clavia Enter, a holistic thought healer to help you write your story.
+   - - No Holds Barred hockey fighting, type wods to avoid getting hit, perry back.
 
 ### Fun Terminology classifications
 
