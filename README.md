@@ -27,6 +27,10 @@ A series of mini games to give typing entertainment
  - Flappy bird style game, type the letter at the correct rate to get through the verical pipee.
  - RC chapionship, steer a  panning overhead RC race car using words.
  - Fortune Teller, Zoltar type advise. Given a Fallout 4 style dialog choice of character dialog, have the user type out the discussion as if they were a telegraph operator.
+ - Helpfull personas, type while being mindfull in the style of the hero...
+ - - Dr. Espacio Alivio, down t earth Space Relief and calming advise for a moment getaway
+   - 
+ - - Dr. Clavia Enter, a holistic thought healer to help you write your story.
 
 ### Sub arcade game
 Consider a mine sweeper field, but not one mine per character, rather. One mine per word. Have a _minefield_ of words that are similar and easy typos of each other. Its a mine field, hard to type, muscle memory like tongue twisters help one articulate.
