@@ -1,5 +1,5 @@
 # SpringKeys
-Typing Tutor program using Hooks law for positioning chaos. 
+Typing Tutor program using graphical maddness while proving hard minigames designed for speed running.
 (DEVELOPMENT PROTOTYPE) 
 
 ## Features
@@ -18,8 +18,15 @@ Typing Test Essentials: Track your WPM (words per minute), accuracy, and other m
 Rust at the Core: Built with Rust for performance, safety, and cross-platform compatibility.
 Graphics Exploration: Experimenting with visual techniques (wasm3 or three.js) to push the boundaries of terminal-based interfaces.
 
+## Mini Games Within
+A series of mini games to give typing entertainment
+ - Minesweeper style game, type the words to make a choice
+ - Tetris style game, type the words for position
+ - Flappy bird style game, type the letter at the correct rate to get through the verical pipee.
+ - RC chapionship, steer a  panning overhead RC race car using words.
+ - Fortune Teller, Zoltar type advise. Given a Fallout 4 style dialog choice of character dialog, have the user type out the discussion as if they were a telegraph operator.
 
-## Sub arcade game
+### Sub arcade game
 Consider a mine sweeper field, but not one mine per character, rather. One mine per word. Have a _minefield_ of words that are similar and easy typos of each other. Its a mine field, hard to type, muscle memory like tongue twisters help one articulate.
 
 
