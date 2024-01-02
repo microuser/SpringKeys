@@ -27,14 +27,13 @@ A series of mini games to give typing entertainment
  - Flappy bird style game, type the letter at the correct rate to get through the verical pipee.
  - RC chapionship, steer a  panning overhead RC race car using words.
  - Fortune Teller, Zoltar type advise. Given a Fallout 4 style dialog choice of character dialog, have the user type out the discussion as if they were a telegraph operator.
- - Helpfull personas, type while being mindfull in the style of the hero...
- - - Dr. Espacio Alivio, down to earth Space Relief and calming advise for a moment getaway
- - - Sr. Fuego Dedos, arriba andale fasting typing
- - - Dr. Clavia Enter, a holistic thought healer to help you write your story.
-   - - No Holds Barred hockey fighting, type wods to avoid getting hit, perry back.
+ - No Holds Barred hockey fighting, type wods to avoid getting hit, perry back.
 
-### Fun Terminology classifications
-
+### Fun Terminology classifications peronas and titles.
+Helpfull personas, type while being mindfull in the style of the hero...
+  - Dr. Espacio Alivio, down to earth Space Relief and calming advise for a moment getaway
+  - Sr. Fuego Dedos, arriba andale fasting typing
+   - Dr. Clavia Enter, a holistic thought healer to help you write your story.
 - Kiimaster): "Key master" in Japanese, but in English emphasizes expertise and control.
 - Input Tornado - (Nyūryoku Tatsumaki): "Input tornado" in Japanese, but in English suggests whirlwind typing speed.
 - Uchimagami): "Typing demon" in Japanese, but in English sounds like "Ouch! A Magical Mine," offering a humorous juxtaposition.
