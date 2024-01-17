@@ -30,7 +30,7 @@ A series of mini games to give typing entertainment
  - No Holds Barred hockey fighting, type wods to avoid getting hit, perry back.
 
 ### Fun Terminology classifications peronas and titles.
-Helpfull personas, type while being mindfull in the style of the hero...
+Helpful personas, type while being mindfull in the style of the hero...
   - Dr. Espacio Alivio, down to earth Space Relief and calming advise for a moment getaway
   - Sr. Fuego Dedos, arriba andale fasting typing
    - Dr. Clavia Enter, a holistic thought healer to help you write your story.
